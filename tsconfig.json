@@ -12,6 +12,7 @@
     "verbatimModuleSyntax": true,
     "skipLibCheck": true,
     "esModuleInterop": true,
+    "rootDir": ".",
     "outDir": "dist"
   },
   "include": ["src", "test"]
